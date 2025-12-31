@@ -5,19 +5,19 @@
         "id": "milestone1",
         "label": "Milestone 1",
         "enabled": true,
-        "extendedEnabled": true
+        "extendedEnabled": false
       },
       {
         "id": "milestone2",
         "label": "Milestone 2",
-        "enabled": true,
-        "extendedEnabled": true
+        "enabled": false,
+        "extendedEnabled": false
       },
       {
         "id": "milestone3",
         "label": "Milestone 3",
-        "enabled": true,
-        "extendedEnabled": true
+        "enabled": false,
+        "extendedEnabled": false
       }
     ]
 }
