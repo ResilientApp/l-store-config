@@ -10,7 +10,7 @@
       {
         "id": "milestone2",
         "label": "Milestone 2",
-        "enabled": false,
+        "enabled": true,
         "extendedEnabled": false
       },
       {
