@@ -11,7 +11,7 @@
         "id": "milestone2",
         "label": "Milestone 2",
         "enabled": true,
-        "extendedEnabled": false
+        "extendedEnabled": true
       },
       {
         "id": "milestone3",
